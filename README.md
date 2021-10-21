@@ -19,7 +19,9 @@ DISCORD_RYTHM_VOICE_ID=REPLACE_THIS_WITH_VOICE_CHANNEL_TO_PLAY_SONGS
 
 ## Commands
 
-`!play <query>` - Searches youtube using the query and plays the top result
-`!resume` - Resumes playing of the video if it has been paused
-`!stop` - Stops playing the video
-`!pause` - Pauses the video, can be resumed later
+```
+!play <query> - Searches youtube using the query and plays the top result
+!resume - Resumes playing of the video if it has been paused
+!stop - Stops playing the video
+!pause - Pauses the video, can be resumed later
+```
